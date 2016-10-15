@@ -57,7 +57,9 @@ a {
   color: #f00;
   text-align: center;
   background-color: #159957;
-  background-image: url(images/g5.jpg); }
+  background-repeat: no-repeat;
+  background: url(images/g5.jpg); 
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
