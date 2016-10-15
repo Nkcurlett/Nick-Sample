@@ -58,7 +58,7 @@ a {
   text-align: center;
   background-color: #159957;
   background-repeat: no-repeat;
-  background: url(images1/g5.jpg); 
+  background: url(../g5.jpg); 
 }
 
 @media screen and (min-width: 64em) {
