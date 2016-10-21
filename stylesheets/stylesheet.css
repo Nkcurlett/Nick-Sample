@@ -81,8 +81,9 @@ navbar > navbar-fixed-top{
 } 
 
 .jumbotron{
- background: linear-gradient(-90deg, red, yellow);  
-  
+ background: linear-gradient(-90deg, red, yellow);
+ color:#000;
+  font-weight:bolder;
 }
 
 @media screen and (min-width: 64em) {
