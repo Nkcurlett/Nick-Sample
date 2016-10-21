@@ -53,17 +53,20 @@ a {
       margin-top: 1rem;
       margin-left: 0; } }
 
+/*nabar background and font colorization*/
 .navbar-inverse{
   background-color:#069;
 }
 
 .navbar-inverse .navbar-nav > li > a{
-  color: #00f;
+  color: #f00;
 }
 
 
 /*added background image here ../images/g5.jpg*/
 .page-header {
+  margin:0px;
+  padding:0px;
   color: #f00;
   text-align: center;
   background-color: #159957;
