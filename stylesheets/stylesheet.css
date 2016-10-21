@@ -66,6 +66,7 @@ a {
 /*added background image here ../images/g5.jpg*/
 .page-header {
   margin:0px;
+  height:70%;
   padding:0px;
   color: #f00;
   text-align: center;
