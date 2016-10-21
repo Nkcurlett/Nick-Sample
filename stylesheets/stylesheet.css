@@ -78,6 +78,11 @@ navbar > navbar-fixed-top{
   background-image: url(../images1/g5.jpg);
   background-repeat: no-repeat;
   background-size: cover; 
+} 
+
+.jumbotron{
+ background: linear-gradient(-90deg, red, yellow);  
+  
 }
 
 @media screen and (min-width: 64em) {
