@@ -52,6 +52,10 @@ a {
     .btn + .btn {
       margin-top: 1rem;
       margin-left: 0; } }
+navbar > navbar-fixed-top{
+  margin:0px;
+  padding:0;
+}
 
 /*nabar background and font colorization*/
 .navbar-inverse{
