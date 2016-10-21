@@ -53,12 +53,21 @@ a {
       margin-top: 1rem;
       margin-left: 0; } }
 
+.navbar-inverse{
+  background-color:#069;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+  color: #00f;
+}
+
+
+/*added background image here ../images/g5.jpg*/
 .page-header {
   color: #f00;
   text-align: center;
   background-color: #159957;
-  
- background-image: url(../images1/g5.jpg);
+  background-image: url(../images1/g5.jpg);
   background-repeat: no-repeat;
   background-size: cover; 
 }
