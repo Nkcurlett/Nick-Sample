@@ -58,7 +58,7 @@ navbar > navbar-fixed-top{
   padding:0;
 }
 
-/*nabar background and font colorization*/
+/*navbar background and font colorization*/
 .navbar-inverse{
   background-color:#069;
 }
@@ -71,18 +71,18 @@ navbar > navbar-fixed-top{
 /*added background image here ../images/g5.jpg*/
 .page-header {
   margin:0px;
-  height:70%;
+  height:70%; /*added, margin, height*/
   padding:0px;
   color: #f00;
   text-align: center;
-  background-color: #159957;
-  background-image: url(../images1/g5.jpg);
-  background-repeat: no-repeat;
-  background-size: cover; 
+  background: linear-gradient(-90deg, red, yellow);
+ 
 } 
 
 .jumbotron{
- background: linear-gradient(-90deg, red, yellow);
+ background-image: url(../images1/g5.jpg);
+ background-repeat: no-repeat;
+  background-size: cover;  
  color:#000;
   font-weight:bolder;
 }
