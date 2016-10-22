@@ -69,7 +69,9 @@ navbar > navbar-fixed-top{
 .navbar-inverse .navbar-nav > li > a:hover >active{
   color: #f00;
 }
-
+.navbar-inverse .navbar-nav > li > a:active{
+  color: #f00;
+}
 /*added background image here ../images/g5.jpg*/
 .page-header {
   margin:0px;
