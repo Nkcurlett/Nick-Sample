@@ -66,7 +66,7 @@ navbar > navbar-fixed-top{
 .navbar-inverse .navbar-nav > li > a{
   color: #fff;
 }
-.navbar-inverse .navbar-nav > li > a:hover >active{
+.navbar-inverse .navbar-nav > li > a:hover{
   color: #f00;
 }
 .navbar-inverse .navbar-nav > li > a:active{
@@ -75,11 +75,11 @@ navbar > navbar-fixed-top{
 /*added background image here ../images/g5.jpg*/
 .page-header {
   margin:0px;
-  height:85%; /*added, margin, height*/
+  height:100%; /*added, margin, height*/
   padding:0px;
   color: #f00;
   text-align: center;
-  background: linear-gradient(-90deg, red, yellow);
+  background: linear-gradient(-90deg, blue, green);
  
 } 
 
@@ -88,7 +88,7 @@ navbar > navbar-fixed-top{
  background-repeat: no-repeat;
   background-size: cover;  
  color:#069;
-  text-shadow: 2px 2px #FF0;
+  text-shadow: 2px 2px #fff;
   font-weight:bolder;
 }
 
